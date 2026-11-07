@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Mopolee Booster</string>
+    <string name="tagline">Viral TikTok Growth &amp; Algorithm Acceleration for @mopoleemovieclip1</string>
+
+    <!-- Navigation tabs -->
+    <string name="tab_cinema">Cinema Clips</string>
+    <string name="tab_survival">Sound Survival</string>
+    <string name="tab_decoys">Acoustic Decoys</string>
+    <string name="tab_protocol">Quiet Protocol</string>
+    <string name="tab_community">Survivor Moves</string>
+
+    <!-- Links & Social -->
+    <string name="url_tiktok_profile">https://www.tiktok.com/@mopoleemovieclip1</string>
+    <string name="url_tiktok_short">https://www.tiktok.com/t/ZPLAoJ4P8/</string>
+    <string name="url_paystack_store">https://paystack.shop/pay/mjzyo3ejz0</string>
+    <string name="tiktok_handle_display">@mopoleemovieclip1</string>
+    <string name="tiktok_profile_label">TikTok Profile</string>
+    <string name="btn_open_tiktok">Follow on TikTok</string>
+    <string name="btn_paystack_store">1-Click Paystack Store (Zero Forms)</string>
+    <string name="btn_instant_pay">Instant Pay ⚡</string>
+    <string name="paystack_subtitle">Secure 1-Click payment with zero forms. Instant digital ticket &amp; VIP cinema pass.</string>
+
+    <!-- Algorithm Booster -->
+    <string name="tab_booster">Algorithm Booster</string>
+    <string name="booster_title">Worldwide Algorithm Booster</string>
+    <string name="booster_subtitle">Reach millions of followers, likes, and comments worldwide with 1-click viral acceleration.</string>
+    <string name="btn_activate_boost">Activate Algorithm Booster 🚀</string>
+    <string name="btn_boost_active">Algorithm Boosting Active (Viral Push)</string>
+    <string name="btn_share_viral">Share Viral Clip Now</string>
+    <string name="watermark_brand">MOPO LEE PRO CINEMA • @mopoleemovieclip1</string>
+    <string name="featured_clip_title">Rule #1: Whatever you do, do NOT make a sound... 🤫💀</string>
+    <string name="featured_clip_desc">Night squad surrounded in the mist. Would you run or hide? Drop your move below!</string>
+    <string name="btn_play">Play Clip</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_replay">Replay</string>
+    <string name="btn_run">I Would Run 🏃‍♂️</string>
+    <string name="btn_hide">I Would Hide 🤫</string>
+    <string name="poll_title">Would you run or hide?</string>
+    <string name="poll_voted_feedback">Your survival choice has been recorded!</string>
+    <string name="comments_header">Survivor Responses (2.4K)</string>
+    <string name="input_placeholder_move">Drop your move here...</string>
+    <string name="btn_post_move">Post</string>
+    <string name="more_clips_header">More Creature &amp; Sci-Fi Clips</string>
+
+    <!-- Survival Game / Sound Detector -->
+    <string name="survival_title">Acoustic Silence Test</string>
+    <string name="survival_subtitle">Live microphone sound detector. Stay below the creature\'s auditory threshold to survive.</string>
+    <string name="btn_start_survival">Start Silence Challenge</string>
+    <string name="btn_stop_survival">End Test</string>
+    <string name="mic_permission_needed">Microphone permission is required to detect noise level. Tap to grant or switch to simulation mode.</string>
+    <string name="btn_grant_mic">Grant Mic Permission</string>
+    <string name="simulation_mode_label">Simulation Mode (No Mic)</string>
+    <string name="sound_level_label">Ambient Noise</string>
+    <string name="threshold_label">Creature Alert Threshold</string>
+    <string name="creature_status_safe">ALL CLEAR - Creature is roaming elsewhere</string>
+    <string name="creature_status_caution">CAUTION - Creature heard a murmur (Approaching)</string>
+    <string name="creature_status_danger">DANGER - Heavy noise detected! In immediate vicinity!</string>
+    <string name="creature_status_caught">DETECTED! The creature leaped at the sound!</string>
+    <string name="stat_time_survived">Time Survived</string>
+    <string name="stat_best_streak">Best Streak</string>
+    <string name="stat_peak_db">Peak Noise</string>
+    <string name="stat_rating">Stealth Rank</string>
+    <string name="rank_ghost">S-Tier (Ghost)</string>
+    <string name="rank_stalker">A-Tier (Shadow Stalker)</string>
+    <string name="rank_scout">B-Tier (Cautionary Scout)</string>
+    <string name="rank_prey">F-Tier (Creature Food)</string>
+    <string name="select_zone_header">Select Survival Zone</string>
+
+    <!-- Decoys -->
+    <string name="decoys_title">Acoustic Decoy Soundboard</string>
+    <string name="decoys_subtitle">Trigger synthetic distractions to redirect acoustic monsters away from your squad.</string>
+    <string name="decoy_glass_title">Glass Bottle Shatter</string>
+    <string name="decoy_glass_desc">Sharp high-frequency crack to lure predator 80 meters north.</string>
+    <string name="decoy_clock_title">Wind-up Alarm Clock</string>
+    <string name="decoy_clock_desc">Rhythmic ticking draws creature into a trapped room.</string>
+    <string name="decoy_sonar_title">Ultrasonic Frequency Pulse</string>
+    <string name="decoy_sonar_desc">Disorients creature ear plates and forces temporary retreat.</string>
+    <string name="decoy_static_title">Emergency Radio Static</string>
+    <string name="decoy_static_desc">Continuous white noise masks squad movement footsteps.</string>
+    <string name="decoy_flare_title">Distress Flare Hiss</string>
+    <string name="decoy_flare_desc">Heat and audio crackle decoy.</string>
+
+    <!-- Protocol / Guide -->
+    <string name="protocol_title">The Quiet Protocol</string>
+    <string name="protocol_subtitle">Field guidelines for surviving encounters with blind auditory creatures.</string>
+    <string name="creature_dossier_title">Apex Acoustic Stalker (Field Dossier)</string>
+
+    <!-- General -->
+    <string name="btn_close">Close</string>
+    <string name="btn_confirm">Confirm</string>
+    <string name="btn_retry">Try Again</string>
+</resources>

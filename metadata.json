@@ -1,0 +1,6 @@
+{
+  "name": "Mopolee Booster",
+  "description": "Viral TikTok Account & Video Booster for Mopolee Movie Clips (@mopoleemovieclip1). Accelerate followers, likes, comments, and global FYP algorithm reach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
